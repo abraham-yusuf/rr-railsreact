@@ -1,12 +1,12 @@
-# A Ruby on Rails with Postgres template on Gitpod
+# A Ruby on Rails with React TS and DB using Postgresql
 
-This is a [Ruby on Rails with Postgres](https://rubyonrails.org) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
+This is a sample for currently learning Ruby on Rails with Postgres
 
 ## Next Steps
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-ruby-on-rails-postgres)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/abraham-yusuf/rr-railsreact)
 
 ## Get Started With Your Own Project
 
